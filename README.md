@@ -7,4 +7,5 @@ Inspiration
 <img src="https://user-images.githubusercontent.com/94130084/141469368-0a98c357-150c-4848-8573-35659df45bea.png" width="500px">
 ### Reflections
 Can I achieve a new century of typoetry with arduino? What can I do for the school and the GCD?
-Maybe I could share the ideas of my classmates by lcd and then writing the code for the arduino. The ideas of the students could be recorded and the ideas of all together form a new visual image.
+Maybe I could share the ideas of my classmates by lcd and then writing the code for the arduino. The ideas of the students could be recorded and the ideas of all can composition  a visual image.
+<img src="https://user-images.githubusercontent.com/94130084/141470869-72568c3f-3c80-4586-9db9-abeec578f3a2.jpg" width="500px">
