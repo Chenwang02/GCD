@@ -30,6 +30,9 @@ He taught me how to connect with four wires,The simplification removes the need 
 ### About code
 <img src="https://user-images.githubusercontent.com/94130084/141476743-c32cbe83-c4d6-4278-adbe-4d3f64957625.png" width="400px">
 The part about programming I have not tried successfully and I am still trying to solve the problem<br>
-But my friend finished my vision and we are now discussing how to solve the problem of why my arduino is not set up successfully
+But my friend finished my vision and we are now discussing how to solve the problem of why my arduino is not set up successfully<br>
+
 ### His work
-<img src="https://user-images.githubusercontent.com/94130084/141477566-d1f5d88f-55bd-489e-92be-979a35280f8a.jpg" width="400px"><br>
+<img src="https://user-images.githubusercontent.com/94130084/141477840-8c2295a2-fe4d-4eba-be2c-952f697c4bcd.jpg" width="300px"><br>
+
+<img src="https://user-images.githubusercontent.com/94130084/141477566-d1f5d88f-55bd-489e-92be-979a35280f8a.jpg" width="300px"><br>
