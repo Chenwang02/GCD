@@ -25,4 +25,4 @@ First I learn how to connect the LCD to the arduino,I find the circuit diagram a
 <img src="https://user-images.githubusercontent.com/94130084/141473288-cecf4b0d-0e72-40ce-be9a-b47b6a7e5cae.png" width="700px">
 Cons: I found that too many jumpers were not user-friendly for novices, prone to errors and not convenient for future distance learners<br>
 ### I asked my friend for help
-<img src="https://user-images.githubusercontent.com/94130084/141474351-df382164-66d7-4c5f-9494-33bf52c85ada.png" width="700px">
+<img src="https://user-images.githubusercontent.com/94130084/141474351-df382164-66d7-4c5f-9494-33bf52c85ada.png" width="500px">
