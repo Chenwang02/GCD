@@ -25,4 +25,11 @@ First I learn how to connect the LCD to the arduino,I find the circuit diagram a
 <img src="https://user-images.githubusercontent.com/94130084/141473288-cecf4b0d-0e72-40ce-be9a-b47b6a7e5cae.png" width="700px">
 Cons: I found that too many jumpers were not user-friendly for novices, prone to errors and not convenient for future distance learners<br>
 ### I asked my friend for help
-<img src="https://user-images.githubusercontent.com/94130084/141474351-df382164-66d7-4c5f-9494-33bf52c85ada.png" width="500px">
+<img src="https://user-images.githubusercontent.com/94130084/141474351-df382164-66d7-4c5f-9494-33bf52c85ada.png" width="500px"><br>
+He taught me how to connect with four wires,The simplification removes the need for breadboards and eliminates the need for many wires, which can make it easy for future remote learners to try
+### About code
+<img src="https://user-images.githubusercontent.com/94130084/141476743-c32cbe83-c4d6-4278-adbe-4d3f64957625.png" width="400px">
+The part about programming I have not tried successfully and I am still trying to solve the problem<br>
+But my friend finished my vision and we are now discussing how to solve the problem of why my arduino is not set up successfully
+### His work
+<img src="https://user-images.githubusercontent.com/94130084/141477566-d1f5d88f-55bd-489e-92be-979a35280f8a.jpg" width="400px"><br>
