@@ -18,8 +18,8 @@ Constitutes a new visual image<br>
 
 ### Learning log
 #### Monday
-First time with arduino, I worked with my classmate Yiwei on how to make the led light up
-<img src="https://user-images.githubusercontent.com/94130084/141472402-f132f22b-d13d-46a9-b564-09bde4283742.png" width="500px">
+First time with arduino, I worked with my classmate Yiwei on how to make the led light up<br>
+<img src="https://user-images.githubusercontent.com/94130084/141472402-f132f22b-d13d-46a9-b564-09bde4283742.png" width="300px">
 ### Implementation ideas
 First I learn how to connect the LCD to the arduino,I find the circuit diagram and experiment if it works
 <img src="https://user-images.githubusercontent.com/94130084/141473288-cecf4b0d-0e72-40ce-be9a-b47b6a7e5cae.png" width="700px">
