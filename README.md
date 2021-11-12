@@ -11,6 +11,6 @@ Maybe I could share the ideas of my classmates by LCD and then writing the code 
 #### Shared Ideas Wall in CSM
 <img src="https://user-images.githubusercontent.com/94130084/141470869-72568c3f-3c80-4586-9db9-abeec578f3a2.jpg" width="500px">
 ##### Advantages of Arduino programming displays over sticky notes.
-1.Can be recorded
-2.Can be uploaded anytime, anywhere
-3.Constitutes a new visual image
+Can be recorded
+Can be uploaded anytime, anywhere
+Constitutes a new visual image
