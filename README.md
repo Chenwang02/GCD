@@ -2,7 +2,7 @@
 In China, people who study art can only choose liberal Arts in high school, so I haven't had much exposure to arduino or even electronic circuits, but through jazmin's PowerPoint presentation in class, I realised that artists and designers can use arduino to communicate their ideas.
 
 
-Inspiration
+### Inspiration
   "no title 1964" which from the poet Augusto de Campos,This artwork is now on display at the Tate Modern., I was attracted by the artist's idea of "typoetry", where letters do not need to have a specific meaning, the shape of the letters themselves constitute the poetry.(https://www.tate.org.uk/art/artworks/campos-no-title-p80683)*<br>
 <img src="https://user-images.githubusercontent.com/94130084/141469368-0a98c357-150c-4848-8573-35659df45bea.png" width="500px">
 ### Reflections
@@ -36,3 +36,6 @@ But my friend finished my vision and we are now discussing how to solve the prob
 <img src="https://user-images.githubusercontent.com/94130084/141478056-241209a8-fedc-41f0-8e27-8b233e58a610.jpg" width="300px"><br>
 
 <img src="https://user-images.githubusercontent.com/94130084/141477566-d1f5d88f-55bd-489e-92be-979a35280f8a.jpg" width="300px"><br>
+### Advice for future distance learners
+1. Think as an artist to envision scenarios in life where we need arduino.
+2. We don't need to be impatient, the designer can provide a vision, leave the code stuff to the people who study computers XD
